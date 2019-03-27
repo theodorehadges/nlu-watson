@@ -1,0 +1,428 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17215,
+    "features": 2
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "sneering yellow faces of young men",
+      "relevance": 0.573599,
+      "count": 1
+    },
+    {
+      "text": "real nature of imperialism",
+      "relevance": 0.556957,
+      "count": 1
+    },
+    {
+      "text": "last remnant of strength",
+      "relevance": 0.545435,
+      "count": 1
+    },
+    {
+      "text": "divisional police officer of the town",
+      "relevance": 0.544216,
+      "count": 1
+    },
+    {
+      "text": "Various Burmans",
+      "relevance": 0.540121,
+      "count": 1
+    },
+    {
+      "text": "large numbers of people",
+      "relevance": 0.539909,
+      "count": 1
+    },
+    {
+      "text": "dead look",
+      "relevance": 0.53763,
+      "count": 1
+    },
+    {
+      "text": "great deal",
+      "relevance": 0.536348,
+      "count": 1
+    },
+    {
+      "text": "bamboo hut",
+      "relevance": 0.535294,
+      "count": 1
+    },
+    {
+      "text": "elephant's doings",
+      "relevance": 0.532838,
+      "count": 1
+    },
+    {
+      "text": "much interest",
+      "relevance": 0.531549,
+      "count": 1
+    },
+    {
+      "text": "long-term convicts",
+      "relevance": 0.530843,
+      "count": 1
+    },
+    {
+      "text": "labyrinth of squalid bamboo huts",
+      "relevance": 0.53084,
+      "count": 1
+    },
+    {
+      "text": "safe distance",
+      "relevance": 0.530713,
+      "count": 1
+    },
+    {
+      "text": "lower Burma",
+      "relevance": 0.52765,
+      "count": 1
+    },
+    {
+      "text": "saecula saeculorum",
+      "relevance": 0.527353,
+      "count": 1
+    },
+    {
+      "text": "sub-inspector",
+      "relevance": 0.526846,
+      "count": 1
+    },
+    {
+      "text": "way anti-European feeling",
+      "relevance": 0.52662,
+      "count": 1
+    },
+    {
+      "text": "Burmese population",
+      "relevance": 0.526436,
+      "count": 1
+    },
+    {
+      "text": "elephant",
+      "relevance": 0.525286,
+      "count": 33
+    },
+    {
+      "text": "wild elephant",
+      "relevance": 0.524382,
+      "count": 1
+    },
+    {
+      "text": "street corners",
+      "relevance": 0.522497,
+      "count": 1
+    },
+    {
+      "text": "will of prostrate peoples",
+      "relevance": 0.521853,
+      "count": 1
+    },
+    {
+      "text": "man's dead body",
+      "relevance": 0.520106,
+      "count": 1
+    },
+    {
+      "text": "real motives",
+      "relevance": 0.519842,
+      "count": 1
+    },
+    {
+      "text": "long distance",
+      "relevance": 0.519645,
+      "count": 1
+    },
+    {
+      "text": "police officer",
+      "relevance": 0.519635,
+      "count": 1
+    },
+    {
+      "text": "tiny incident",
+      "relevance": 0.519006,
+      "count": 1
+    },
+    {
+      "text": "dirty work of Empire",
+      "relevance": 0.518897,
+      "count": 1
+    },
+    {
+      "text": "tame elephants",
+      "relevance": 0.518831,
+      "count": 1
+    },
+    {
+      "text": "whole story",
+      "relevance": 0.518784,
+      "count": 1
+    },
+    {
+      "text": "futility of the white man",
+      "relevance": 0.518499,
+      "count": 1
+    },
+    {
+      "text": "friction of the great beast",
+      "relevance": 0.518254,
+      "count": 1
+    },
+    {
+      "text": "frighfful impact of the bullet",
+      "relevance": 0.517732,
+      "count": 1
+    },
+    {
+      "text": "elephant rifle",
+      "relevance": 0.517533,
+      "count": 1
+    },
+    {
+      "text": "Anglo-Indian official",
+      "relevance": 0.517102,
+      "count": 1
+    },
+    {
+      "text": "football field",
+      "relevance": 0.516411,
+      "count": 1
+    },
+    {
+      "text": "previous night",
+      "relevance": 0.515754,
+      "count": 1
+    },
+    {
+      "text": "own freedom",
+      "relevance": 0.515425,
+      "count": 1
+    },
+    {
+      "text": "miry waste of paddy",
+      "relevance": 0.515338,
+      "count": 1
+    },
+    {
+      "text": "hind legs",
+      "relevance": 0.51529,
+      "count": 1
+    },
+    {
+      "text": "little distance",
+      "relevance": 0.514857,
+      "count": 1
+    },
+    {
+      "text": "long time",
+      "relevance": 0.513949,
+      "count": 2
+    },
+    {
+      "text": "end of the town",
+      "relevance": 0.513934,
+      "count": 1
+    },
+    {
+      "text": "poor shot",
+      "relevance": 0.513826,
+      "count": 1
+    },
+    {
+      "text": "bit of fun",
+      "relevance": 0.51372,
+      "count": 1
+    },
+    {
+      "text": "white man turns tyrant",
+      "relevance": 0.513582,
+      "count": 1
+    },
+    {
+      "text": "better aim",
+      "relevance": 0.513035,
+      "count": 1
+    },
+    {
+      "text": "desperate slowness",
+      "relevance": 0.51298,
+      "count": 1
+    },
+    {
+      "text": "paddy fields",
+      "relevance": 0.512935,
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Burmans",
+      "relevance": 0.931313,
+      "count": 5
+    },
+    {
+      "type": "Person",
+      "text": "elephant",
+      "relevance": 0.691973,
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "officer",
+      "relevance": 0.52368,
+      "count": 2
+    },
+    {
+      "type": "Location",
+      "text": "Moulmein",
+      "relevance": 0.501423,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ],
+        "name": "Mawlamyine",
+        "dbpedia_resource": "http://dbpedia.org/resource/Mawlamyine"
+      },
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "Burma",
+      "relevance": 0.482209,
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Burma",
+        "dbpedia_resource": "http://dbpedia.org/resource/Burma"
+      },
+      "count": 1
+    },
+    {
+      "type": "Sport",
+      "text": "football",
+      "relevance": 0.474831,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "British Raj",
+      "relevance": 0.468912,
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "Kingdom",
+          "Country"
+        ],
+        "name": "British Raj",
+        "dbpedia_resource": "http://dbpedia.org/resource/British_Raj"
+      },
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "Burman",
+      "relevance": 0.459524,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "saecula saeculorum",
+      "relevance": 0.440992,
+      "count": 1
+    },
+    {
+      "type": "Location",
+      "text": "terrorem",
+      "relevance": 0.427875,
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "JobTitle",
+      "text": "official",
+      "relevance": 0.424694,
+      "count": 1
+    },
+    {
+      "type": "Crime",
+      "text": "murder",
+      "relevance": 0.411267,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "pounds",
+      "relevance": 0.400151,
+      "count": 1
+    },
+    {
+      "type": "Person",
+      "text": "flabbily",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twenty-five yards",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred pounds",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "thousand yards",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "hundred yards",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five seconds",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "twelve hours",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "eight yards",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "five\npounds",
+      "relevance": 0.385447,
+      "count": 1
+    },
+    {
+      "type": "Quantity",
+      "text": "One day",
+      "relevance": 0.385447,
+      "count": 1
+    }
+  ]
+}
